@@ -1,0 +1,12 @@
+{
+  "apidb": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "apidb",
+    "password": "",
+    "name": "apidb",
+    "user": "",
+    "connector": "postgresql"
+  }
+}
