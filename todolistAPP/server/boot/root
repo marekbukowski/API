@@ -1,3 +1,6 @@
+/**
+ * Disable this class, delete it or change to some kind of other file without .js
+ */
 'use strict';
 
 module.exports = function(server) {
